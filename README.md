@@ -101,6 +101,7 @@
 - [REST Countries API](https://restcountries.com/) – Country metadata for travel, education, and geographic applications.
 - [defend.network CVE API](https://defend.network/api/) – Public API for CVE data, including CVSS, EPSS, and CISA KEV exploitation status.
 - [Public APIs List](https://github.com/public-apis/public-apis) – Curated list of free APIs in multiple categories.
+- [Equipment Capital Index](https://www.equipmentcapitalindex.com/api/rate-report.json) – Free, open API for real commercial equipment financing rate and payment benchmarks, backed by a CC BY 4.0 dataset and Zenodo DOI.
 
 ## Monitoring, Testing & Security Tools
 
